@@ -33,4 +33,11 @@ With this project I learned how to implement the Object Oriented Programming par
 ### 2020 Mood Calendar
 
 Making a calendar with JavaScript and CSS to keep track of your mood.
-[Link](https://hungry-sammet-a73368.netlify.app)
+[Link](https://codepen.io/ezequiel_/full/KKdbawK)
+
+### Shopping Cart
+
+Shopping cart implementation with MongoDB, hapi/joi validation and bcrypt password hashing.
+[Link](https://aqueous-meadow-37744.herokuapp.com/) - [GitHub Repo](https://github.com/ezzep66/shopping-cart)
+
+
