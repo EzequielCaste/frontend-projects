@@ -1,8 +1,9 @@
 ## Some of my JavaScript Projects :rocket:
 
-**GitHub User Profile** - [Link](https://github.com/ezzep66/github-profile-api)
+|**GitHub User Profile** [Link](https://github.com/ezzep66/github-profile-api)|
+|:------|
+|Using the github API to display the user profile and list of repositories.|
 
-Using the github API to display the user profile and list of repositories.
 
 **Twitter Clone** -  [Link](https://quiet-wave-46430.herokuapp.com/) - [GitHub Repo](https://github.com/ezzep66/twita-clone)
 
