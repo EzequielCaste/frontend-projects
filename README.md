@@ -1,18 +1,3 @@
-## FreeCodeCamp Projects
-
-#### Responsive Web Design
-<details><summary>show</summary>
-  
-  
-[Tribute Page](https://codepen.io/ezequiel_/full/WmYYYB)
-
-[Contact Form](https://codepen.io/ezequiel_/full/jJdPgz)
-
-[Landing Page](https://codepen.io/ezequiel_/full/EMJjYW)
-
-[Technical Documentation](https://codepen.io/ezequiel_/full/ZPNedE)
-</details>
-
 ## Some of my JavaScript Projects :rocket:
 
 **GitHub User Profile** - [Link](https://github.com/ezzep66/github-profile-api)
@@ -52,3 +37,24 @@ Users can add tasks, mark them as completed, edit and delete them. Tasks are sto
 **Blog** - [Link](https://obscure-hollows-19823.herokuapp.com/) - [GitHub repo](https://github.com/ezzep66/crud-blog)
 
 Blog made to learn CRUD and MongoDB.
+
+**Rock Paper Scissors Game** [Link](https://github.com/ezzep66/rock-paper-scissors)
+
+
+**Array Methods and DOM manipulation** [Link](https://github.com/ezzep66/DOM-Array-Methods)
+
+
+## FreeCodeCamp Projects
+
+#### Responsive Web Design
+
+<details><summary>show</summary>  
+  
+[Tribute Page](https://codepen.io/ezequiel_/full/WmYYYB)
+
+[Contact Form](https://codepen.io/ezequiel_/full/jJdPgz)
+
+[Landing Page](https://codepen.io/ezequiel_/full/EMJjYW)
+
+[Technical Documentation](https://codepen.io/ezequiel_/full/ZPNedE)
+</details>
