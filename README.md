@@ -15,7 +15,7 @@
 
 ## Some of my JavaScript Projects :rocket:
 
-**GitHub User Profile** - [Link](https://codepen.io/ezequiel_/full/jOWBJqN)
+**GitHub User Profile** - [Link](https://github.com/ezzep66/github-profile-api)
 
 Using the github API to display the user profile and list of repositories.
 
@@ -24,17 +24,17 @@ Using the github API to display the user profile and list of repositories.
 My clone of Twitter made with MongoDB, Express, JWT authentication.
 
 
-**Random Meal Generator** - [Link](https://codepen.io/ezequiel_/full/KKdbawK)
+**Random Meal Generator** - [Link](https://github.com/ezzep66/random-meal-generator)
 
 Using the TheMealDB.com API to get and display a random meal on each click.
 
 
-**Library Manager** - [Link](https://codepen.io/ezequiel_/full/oNbZVaP) 
+**Library Manager** - [Link](https://github.com/ezzep66/library-local-storage) 
 
 With this project I learned how to implement the Object Oriented Programming paradigm. It uses local storage to save the user's own books.
 
 
-**2020 Mood Calendar** - [Link](https://codepen.io/ezequiel_/full/KKdbawK)
+**2020 Mood Calendar** - [Link](https://github.com/ezzep66/mood-tracker)
 
 Making a calendar with JavaScript and CSS to keep track of your mood.
 
@@ -44,7 +44,7 @@ Making a calendar with JavaScript and CSS to keep track of your mood.
 Shopping cart implementation with MongoDB, hapi/joi validation and bcrypt password hashing.
 
 
-**Todo List** - [Link](https://codepen.io/ezequiel_/full/mdVWoLv)
+**Todo List** - [Link](https://github.com/ezzep66/todo-js)
 
 Users can add tasks, mark them as completed, edit and delete them. Tasks are store in local storage.
 
