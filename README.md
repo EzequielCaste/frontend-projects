@@ -60,3 +60,19 @@
 
 [Technical Documentation](https://codepen.io/ezequiel_/full/ZPNedE)
 </details>
+
+#### Front End Libraries
+
+<details><summary>show</summary>
+  
+  [Random Quote Machine](https://codepen.io/ezequiel_/pen/zgoJQX)
+  
+  [Markdown Previewer](https://codepen.io/ezequiel_/pen/zgwOqm)
+  
+  [Drum Machine](https://s.codepen.io/ezequiel_/debug/PMJXYj/YvkgOnVjLEGk)
+  
+  [JavaScript Calculator](https://codepen.io/ezequiel_/pen/zYOqBeo)
+  
+  [Pomodoro Clock](https://codepen.io/ezequiel_/pen/zYOovrm)
+  
+  </details>
