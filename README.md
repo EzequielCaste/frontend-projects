@@ -65,14 +65,14 @@
 
 <details><summary>show</summary>
   
-  [Random Quote Machine](https://codepen.io/ezequiel_/pen/zgoJQX)
+  [Random Quote Machine](https://codepen.io/ezequiel_/full/zgoJQX) [w/React](https://ecaste-quotes.vercel.app/) 
   
-  [Markdown Previewer](https://codepen.io/ezequiel_/pen/zgwOqm)
+  [Markdown Previewer](https://github.com/EzequielCaste/react-markdown-previewer)
   
-  [Drum Machine](https://s.codepen.io/ezequiel_/debug/PMJXYj/YvkgOnVjLEGk)
+  [Drum Machine](https://github.com/EzequielCaste/react-drum-machine)
   
-  [JavaScript Calculator](https://codepen.io/ezequiel_/pen/zYOqBeo)
+  [JavaScript Calculator](https://github.com/EzequielCaste/react-calculator)
   
-  [Pomodoro Clock](https://codepen.io/ezequiel_/pen/zYOovrm)
+  [Pomodoro Clock](https://github.com/EzequielCaste/react-pomodoro-clock)
   
   </details>
