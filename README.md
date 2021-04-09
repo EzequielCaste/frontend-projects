@@ -76,3 +76,19 @@
   [Pomodoro Clock](https://github.com/EzequielCaste/react-pomodoro-clock)
   
   </details>
+  
+#### APIs and Microservices
+
+<details><summary>show</summary>
+  
+  [Timestamp Microservice](https://github.com/EzequielCaste/Timestamp-Microservice)  
+  
+  [Request Header Parser](https://github.com/EzequielCaste/Request-Header-Parser-Microservice)
+  
+  [URL Shortener](https://github.com/EzequielCaste/microurl-api)
+  
+  [Exercise Tracker](https://github.com/EzequielCaste/Exercise-Tracker)
+  
+  [File Metadata](https://github.com/EzequielCaste/File-Metadata-Microservice)
+  
+  </details>
