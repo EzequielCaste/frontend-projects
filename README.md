@@ -1,4 +1,4 @@
-# Some of my JavaScript Projects :rocket:
+# Some of my Frontend Projects :rocket:
 ---
 
 |**GitHub User Profile** - [Link](https://github.com/ezzep66/github-profile-api)|
@@ -90,5 +90,28 @@
   [Exercise Tracker](https://github.com/EzequielCaste/Exercise-Tracker)
   
   [File Metadata](https://github.com/EzequielCaste/File-Metadata-Microservice)
+  
+  </details>
+  
+  
+#### Responsive Web Developer
+
+<details><summary>show</summary>
+  
+  [404 Not Found](https://github.com/EzequielCaste/404-not-found-challenge)  
+  
+  [My Team](https://github.com/EzequielCaste/my-team-page)
+  
+  [Interior Consultant](https://github.com/EzequielCaste/interior-consultant)
+  
+  [Recipe Page](https://github.com/EzequielCaste/recipe-page-challenge)
+  
+  [My Gallery](https://github.com/EzequielCaste/my-gallery-challenge)
+  
+  [Checkout Page](https://github.com/EzequielCaste/checkout-page-challenge)
+    
+  [My Homepage](https://github.com/EzequielCaste/homepage-challenge)
+  
+  [My Portfolio](https://github.com/EzequielCaste/my-portfolio-React)
   
   </details>
